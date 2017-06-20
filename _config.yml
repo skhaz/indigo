@@ -1,9 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
-
-# twitter summary info
-description: A blog about technology and stuff related
+name: Rodrigo Delduca
+bio: programer and game developer
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +11,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: //github.com/skhaz/resume
 
-url: https://koppl.in/indigo
+url: skhaz.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,41 +26,33 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: skhaz
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
-# lastfm: mylastfm
+github: skhaz
+lastfm: skhaz
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: me@skhaz.io
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    skhaz:
+        name: Rodrigo Delduca
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -79,19 +68,19 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: []
 
 # show author block at the end of a post ?
 show-author: true
@@ -107,3 +96,5 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
