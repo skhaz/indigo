@@ -48,12 +48,6 @@ lastfm: skhaz
 # vimeo: myvimeo
 email: me@skhaz.io
 
-authors:
-    skhaz:
-        name: Rodrigo Delduca
-        external-image: false
-        picture: assets/images/profile.jpg
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -83,10 +77,10 @@ related: false
 post-advance-links: []
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
-animation: false
+animation: true
 
 gems:
   - jekyll-seo-tag
