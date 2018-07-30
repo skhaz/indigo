@@ -86,7 +86,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jemoji
 
 jekyll-mentions:
     base_url: https://github.com
