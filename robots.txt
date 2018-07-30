@@ -1,7 +1,7 @@
 User-agent: *
 Disallow:
 
-User-Agent: bender
+User-Agent: Bender
 Disallow: /my_shiny_metal_ass
 
 User-Agent: Johnny Five
@@ -10,3 +10,5 @@ Disallow: /more_input.csv
 User-Agent: RoboCop
 Disallow: /about
 
+User-Agent: Terminator
+Disallow: /sarah_connor
