@@ -1,5 +1,3 @@
-## Rodrigo Delduca's Personal Website
+# Rodrigo Delduca's Personal Website [skhaz.io](https://skhaz.io)
 
-See it here - [skhaz.io](https://skhaz.io)
-
-Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
+_Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)_
