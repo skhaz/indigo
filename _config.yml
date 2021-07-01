@@ -13,7 +13,7 @@ resume: false
 resume-external: false
 resume-url: //github.com/skhaz/resume
 
-url: https://skhaz.io
+url: https://skhaz.dev
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -46,7 +46,7 @@ lastfm: skhaz
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: me@skhaz.io
+email: rodrigodelduca@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
